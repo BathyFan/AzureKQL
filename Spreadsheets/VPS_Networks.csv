@@ -7229,7 +7229,7 @@
 63.143.128.0/17
 63.247.160.0/19
 65.51.0.0/16
-#67.80.0.0/13#
+#67.80.0.0/13# Registered to a valid ISP "AS6128  ·  Cablevision Systems Corp"
 68.192.0.0/13
 69.27.224.0/19
 69.74.0.0/16
@@ -7316,6 +7316,8 @@
 69.117.0.0/16
 67.80.0.0/16
 67.81.0.0/16
+#67.83.0.0/17# Registered to a valid ISP "AS6128  ·  Cablevision Systems Corp"
+#67.83.128.0/18# Registered to a valid ISP "AS6128  ·  Cablevision Systems Corp"
 24.190.148.0/23
 24.44.0.0/16
 24.45.0.0/16
